@@ -6,7 +6,4 @@ and give it a try. Make sure to understand it and not just do what the pictures 
 need to upload any code here for this one. Just go have some fun working with the app. Read through it and work through the tutorial
 a few times until it is crystal clear!
 
-We will be developing in Microsoft Visual Studio for this project... My phone is being really cool right now I can't send any text... 
-
-
-Hey bud, how is this going? Were you able to build the graphical application? Phone still sucks, I should be getting a new one today.
+Lets get back into things!
